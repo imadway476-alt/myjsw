@@ -444,7 +444,7 @@ function setLoadingUI(percent) {
   etaText.textContent = `ETA 00:0${Math.min(9, remaining)}`;
 }
 
-// ---- ONLY CHANGE: trigger Adbluemedia locker instead of redirect ----
+// ---- Trigger YOUR new Adbluemedia locker ----
 unlockBtn.addEventListener("click", () => {
   instructionOverlay.classList.add("hidden");
 
