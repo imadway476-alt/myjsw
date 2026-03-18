@@ -452,12 +452,12 @@ unlockBtn.addEventListener("click", () => {
 
   const config = document.createElement('script');
   config.setAttribute('data-adblue', '1');
-  config.textContent = 'var Pnmxy_soy_PRHGKc={"it":4208366,"key":"b5ea8"};';
+  config.textContent = 'var GnnzN_NQe_oXFwgc={"it":4595313,"key":"046fc"};';
   document.body.appendChild(config);
 
   const s = document.createElement('script');
   s.setAttribute('data-adblue', '1');
-  s.src = 'https://d3v3431sr9puku.cloudfront.net/f134d86.js';
+  s.src = 'https://d1qt1z4ccvak33.cloudfront.net/237737b.js';
   s.onload = () => {
     if (typeof _qW === 'function') _qW();
   };
